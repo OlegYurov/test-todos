@@ -1,0 +1,10 @@
+.inputTitle {
+  width: 250px;
+}
+
+.textArea {
+  width: 250px;
+  height: 100px;
+  resize: none;
+  margin-bottom: 20px;
+}
